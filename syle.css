@@ -2,6 +2,9 @@
       #custom-css{
             font-size: 15px;
             height: 200px;
-      }
-      
+      } 
+}
+.basic-pack:hover{
+      background-color: #3F87F5;
+      color:#fffff1;
 }
